@@ -1,2 +1,2 @@
 # Go-Study
- Crud with Go, MySql, Postgres and Kubernetes
+ Crud with Go, MySql, Postgres, JWT and Kubernetes
